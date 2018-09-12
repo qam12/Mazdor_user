@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mazdor_user</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Jobs</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_notifications">Feedback</string>
+</resources>
